@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
 ## Sorting
@@ -20,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
 ## Newton's Method
