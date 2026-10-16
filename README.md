@@ -12,11 +12,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
@@ -49,4 +51,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
