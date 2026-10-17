@@ -13,6 +13,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
 ## Sorting
@@ -25,6 +26,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
