@@ -16,11 +16,13 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
 | ------- |
