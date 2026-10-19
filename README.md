@@ -16,12 +16,14 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
@@ -30,6 +32,7 @@
 | [0069-sqrtx](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
