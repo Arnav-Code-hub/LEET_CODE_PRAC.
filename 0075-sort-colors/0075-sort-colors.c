@@ -1,12 +1,11 @@
 void sortColors(int* nums, int numsSize) {
     int n=numsSize;
-    for(int i=1;i<n;i++){
-        int temp=nums[i];
-        int j=i-1;
-        while(j>=0 && nums[j]>temp){
-            nums[j+1]=nums[j];
-            j--;
+    for(int i=0;i<=n-1;i++){
+        for(int j=0;j<n-i-1;j++)
+        if(nums[j]>nums[j+1]){
+            int temp=nums[j];
+            nums[j]=nums[j+1];
+            nums[j+1]=temp;
         }
-        nums[j+1]=temp;
     }
 }
