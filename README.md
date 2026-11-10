@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
