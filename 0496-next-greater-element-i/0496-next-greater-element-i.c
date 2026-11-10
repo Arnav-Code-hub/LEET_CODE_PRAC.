@@ -15,7 +15,7 @@ int* nextGreaterElement(int* nums1, int nums1Size, int* nums2, int nums2Size,
         int search = nums1[i];
 
         for (int j = 0; j < n2; j++) {
-            if (nums1[i] == nums2[j]) {
+            if (search == nums2[j]) {
                 if (j + 1 < n2 && nums2[j + 1] > nums2[j]) {
                     ans[index] = nums2[j + 1];
                     index++;
