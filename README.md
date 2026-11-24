@@ -55,6 +55,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arnav-Code-hub/LEET_CODE_PRAC./tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
